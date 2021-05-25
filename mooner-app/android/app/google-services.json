@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65005170132",
+    "project_id": "mooner-80fa0",
+    "storage_bucket": "mooner-80fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65005170132:android:6a95e00eefa9aec6b17a41",
+        "android_client_info": {
+          "package_name": "com.mooner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65005170132-tjht189c4hqla5glj746o51n0g2sfcsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mooner",
+            "certificate_hash": "aa75f0f9c859bf73c7dff9d24d7305acb78f196e"
+          }
+        },
+        {
+          "client_id": "65005170132-7pji65mftg949snqth67m22rocf6ps7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaGOIhtY0y87fHLUB05quUBhyNBVANDlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65005170132-7pji65mftg949snqth67m22rocf6ps7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
